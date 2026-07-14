@@ -5,3 +5,4 @@ git commit -m "mensaje" sube todos los cambios al repositorio
 git pull o git pull --no-rebase origin master  baja los cambios echos
 git push sube los cambios al repositorio
 
+nueva linea desde bash
