@@ -1,3 +1,1 @@
-Nuevo proyecto
-nueva lineas desde el bash
-nueva linea otra vez
+"# Bitácora QA -- Yoan S Cabrera Victoria"
