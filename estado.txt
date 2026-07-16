@@ -1,1 +1,2 @@
-Estado del proyecto: terminado
+esatdo de proyecto: en pruebas
+>>>>>>> actualizar-estado
